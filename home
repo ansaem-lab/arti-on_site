@@ -1,0 +1,6 @@
+cd artion-site
+git init
+git remote add origin https://github.com/내아이디/artion-site.git
+git add .
+git commit -m "first commit"
+git push -u origin main 
